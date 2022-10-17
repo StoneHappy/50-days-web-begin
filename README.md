@@ -1,4 +1,4 @@
-# js Starter
+# 50days web begin
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
